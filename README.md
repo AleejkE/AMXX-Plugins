@@ -1,2 +1,2 @@
-# AMXX-Plugins
-Plugins de AMXX para CS 1.6
+## AMXX-Plugins
+Variedad de Plugins publicos para CS 1.6
